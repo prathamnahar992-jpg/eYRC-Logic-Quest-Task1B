@@ -1,0 +1,17 @@
+# Quartus generated files
+db/
+incremental_db/
+*.rpt
+*.qws
+*.bak
+
+# ModelSim generated files
+transcript
+vsim.wlf
+msim_transcript
+*.wlf
+
+# OS files
+Thumbs.db
+.DS_Store
+
